@@ -71,7 +71,7 @@ More information can be found in the JohnDoe&Co SSP.docx and the Current Impleme
 
 <br />
 <p align="center">
-<img src="https://imgur.com/OkqJ94k.png" height="100%" width="100%" alt="Detection Engineering Logo Team Ghost"/>
+<img src="![image](https://github.com/user-attachments/assets/7257b38b-41aa-4356-9d44-777ae65edf03)" height="100%" width="100%" alt="Detection Engineering Logo Team Ghost"/>
 </p>
 
 <br />
