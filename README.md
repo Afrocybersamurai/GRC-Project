@@ -45,13 +45,13 @@ The System Security Plan (SSP) provides a comprehensive overview of the organiza
 **Key sections of the SSP include:**
 
   **System Identification**: 
-   - **System Name/Title**: The system is identified as the "SOHO System."
+   - **System Name/Title**: The system is identified as the "Buckingham System."
    - **System Categorization**: It is categorized as Moderate Impact for Confidentiality, indicating the importance of protecting the confidentiality of the information processed by the system.
-   - **System Unique Identifier**: The system is uniquely identified by the code [00S51B525].
+   - **System Unique Identifier**: The system is uniquely identified by the code [00S51B528].
 
   **Responsible Organization**: 
-   - The organization responsible for the system is LionSec, located at 3823 Fakename Street, Huntsville, AL.
-   - Key personnel include Emilia Garcia, the Information Owner, and Felix Aburto, the System Owner and Security Officer, both of whom are tasked with overseeing the security of the system and ensuring compliance with relevant regulations.
+   - The organization responsible for the system is JohnDoe&Co, located at 1051 Calico Drive New York NY.
+   - Key personnel include Emilia Garcia, the Information Owner, and Michael Igbokwe, the System Owner and Security Officer, both of whom are tasked with overseeing the security of the system and ensuring compliance with relevant regulations.
 
   **General Description/Purpose of the System**: 
    - The system’s primary function is to securely manage, process, and store CUI as part of the firm’s core business operations, including conducting security assessments, performing incident response, and managing compliance audits for government contracts.
@@ -67,7 +67,7 @@ The System Security Plan (SSP) provides a comprehensive overview of the organiza
 
 The Current Implemented Controls document provides a thorough description of the specific security measures in place. For instance, access control measures are well-defined, including account management, role-based access control (RBAC), and the implementation of least privilege principles. These controls are crucial for restricting access to sensitive information and ensuring that only authorized personnel can perform certain functions within the system.
   
-More information can be found in the LionSec SSP.docx and the Current Implemented Controls.docx files that I have attached.
+More information can be found in the JohnDoe&Co SSP.docx and the Current Implemented Controls.docx files that I have attached.
 
 <br />
 <p align="center">
@@ -124,7 +124,7 @@ Conclusion:
 
 The report concluded with a call to action, stressing the importance of addressing the identified vulnerabilities to maintain the organization’s security posture. It underscored the necessity of proactive risk management to safeguard the organization’s assets and data against emerging threats.
 
-More information can be found in the files: LionSec Baseline Risk Assessment.xlsx and LionSec Risk Assessment Report.docx
+More information can be found in the files: JohnDoe&Co Baseline Risk Assessment.xlsx and JohnDoe&Co Risk Assessment Report.docx
 
 
 <br />
@@ -210,7 +210,7 @@ As part of the "Implement Security Controls" phase of the NIST Risk Management F
 
 By developing and executing the POA&M, I ensured that all necessary security controls were implemented in a structured and timely manner. This approach not only addressed existing weaknesses but also reinforced the overall security posture of the system, paving the way for successful authorization and continuous monitoring.
 
-More information can be found in the file : LionSec POAM.docx
+More information can be found in the file : JohnDoe&Co POAM.docx
 
 <br />
 <p align="center">
@@ -239,7 +239,7 @@ After implementing the necessary security controls outlined in the System Securi
 **Final Risk Profile**:
    - The final risk profile indicated that the organization’s environment was now at a much lower risk level, with many of the previously identified high-risk items being reduced to moderate or low risk. The effectiveness of the implemented controls not only addressed the critical vulnerabilities but also ensured ongoing protection against potential threats.
 
-More information can be found in the file : LionsSec POST Risk Assessment.xlsx
+More information can be found in the file : JohnDoe&Co POST Risk Assessment.xlsx
 
 <br />
 
@@ -305,7 +305,7 @@ Each control was assigned to a specific team or individual responsible for its m
 **Consistent Reporting and Documentation:**
 As part of the CMP execution, each monitoring activity resulted in the generation of deliverables such as logs, reports, and analysis documents. These deliverables were crucial in providing evidence of the ongoing effectiveness of the security controls. For example, Security Monitoring Logs and Incident Response Reports were generated daily, providing a continuous stream of data to support the security posture of the system.
 
-More information can be found in the LionSec Continous Monitoring Plan.xlsx file.
+More information can be found in the JohnDoe&Co Continous Monitoring Plan.xlsx file.
 
 <br />
 
