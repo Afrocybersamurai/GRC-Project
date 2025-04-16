@@ -123,17 +123,11 @@ The report concluded with a call to action, stressing the importance of addressi
 More information can be found in the files: JohnDoe&Co Baseline Risk Assessment.xlsx and JohnDoe&Co Risk Assessment Report.docx
 
 
-<br />
-<p align="center">
-<img src="https://imgur.com/YrRRQVp.png" height="100%" width="100%" alt="Detection Engineering Logo Team Ghost"/>
-</p>
+![image](https://github.com/user-attachments/assets/af1b5e9d-05a8-4c86-b00c-9b765d6ee43d)
 
-<br />
-<p align="center">
-<img src="https://imgur.com/0b40q2H.png" height="100%" width="100%" alt="Detection Engineering Logo Team Ghost"/>
-</p>
+![image](https://github.com/user-attachments/assets/5d091bcb-e59a-42ee-9372-0300884c7fe4)
 
-<br />
+
 
 <h2>NIST 800-37 Risk Management Framework</h2>
 
@@ -208,13 +202,9 @@ By developing and executing the POA&M, I ensured that all necessary security con
 
 More information can be found in the file : JohnDoe&Co POAM.docx
 
-<br />
-<p align="center">
-<img src="https://imgur.com/BUCHdNh.png" height="100%" width="100%" alt="Detection Engineering Logo Team Ghost"/>
-</p>
+![image](https://github.com/user-attachments/assets/160d14a9-aadd-48ee-ac31-4a2b972b2405)
 
 
-<br />
 
 ### Assess Security Controls:
 
@@ -263,27 +253,16 @@ After successfully implementing and assessing the necessary security controls, I
 
 The files for the Authorization Package have been attached as well.
 
-<br />
-<p align="center">
-<img src="https://imgur.com/khd2QgM.png" height="100%" width="100%" alt="Detection Engineering Logo Team Ghost"/>
-</p>
 
-<br />
-<p align="center">
-<img src="https://imgur.com/y5bYgz4.png" height="100%" width="100%" alt="Detection Engineering Logo Team Ghost"/>
-</p>
 
-<br />
-<p align="center">
-<img src="https://imgur.com/kh0pvHn.png" height="100%" width="100%" alt="Detection Engineering Logo Team Ghost"/>
-</p>
+![image](https://github.com/user-attachments/assets/a7bdff9d-5b1d-419d-975f-bc0d179840cd)
 
-<br />
-<p align="center">
-<img src="https://imgur.com/iMVgmuA.png" height="100%" width="100%" alt="Detection Engineering Logo Team Ghost"/>
-</p>
+![image](https://github.com/user-attachments/assets/3239092a-cf77-4671-9db1-7f0473e77bd9)
 
-<br />
+![image](https://github.com/user-attachments/assets/928f6a2f-e092-4257-8707-e97143f4084c)
+
+![image](https://github.com/user-attachments/assets/df8cb858-1804-4bc3-9450-06fdc13dda86)
+
 
 ### Monitor Security Controls:
 
