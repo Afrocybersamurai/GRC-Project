@@ -23,10 +23,14 @@ The culmination of these efforts resulted in a significant improvement in the se
 <img src="https://imgur.com/ysyWGTU.png" height="75%" width="75%" alt="Detection Engineering Logo Team Ghost"/>
 </p>
 
-<br />
+<br>
 
-<h2>Baseline Security Audit and System Security Plan</h2>
+<br>
 
+<details close> 
+<summary> <h2>1️⃣ Baseline Security Audit and System Security Plan</h2> </summary>
+<br>
+ 
 #### Overview
 The Baseline Security Audit was conducted using the NIST SP 800-171 framework to evaluate the current state of security controls within the organization. The audit aimed to determine which security requirements were fully implemented, which were planned for future implementation, and which were deemed not applicable to the organization’s environment.
 
@@ -75,9 +79,15 @@ More information can be found in the JohnDoe&Co SSP.docx and the Current Impleme
 
 ![image](https://github.com/user-attachments/assets/68388b85-6a78-461a-806c-84d649c02e6e)
 
+<br>
 
+<br>
 
-<h2>Baseline Risk Assessment and Risk Assessment Report</h2>
+<details close> 
+<summary> <h2> 2️⃣ Baseline Risk Assessment and Risk Assessment Report</h2> </summary>
+<br>
+ 
+
 
 #### Overview
 The Baseline Risk Assessment was meticulously conducted to evaluate the security posture of the organization by analyzing key controls and their associated risks. This assessment was structured according to the NIST SP 800-30 framework and focused on identifying vulnerabilities, assessing the likelihood and impact of potential threats, and calculating overall risk scores for each control. The findings were documented in an Excel spreadsheet that served as the primary tool for tracking and managing these risks.
@@ -127,13 +137,22 @@ More information can be found in the files: JohnDoe&Co Baseline Risk Assessment.
 ![image](https://github.com/user-attachments/assets/5d091bcb-e59a-42ee-9372-0300884c7fe4)
 
 
+<br>
 
-<h2>NIST 800-37 Risk Management Framework</h2>
+  </details>
+
+<h2></h2>
+
+<details close> 
+ <summary> <h2>3️⃣ NIST 800-37 Risk Management Framework</h2> </summary>
+<br>
+
 
 <br />
 <p align="center">
 <img src="https://media.licdn.com/dms/image/D5612AQH4m0Ud-dCvLw/article-cover_image-shrink_600_2000/0/1678258984629?e=2147483647&v=beta&t=MINQCWtRjcNDIGz1R9uRCYH_P7lq1jWb6l9RkPwz_U4" height="30%" width="30%" alt="Detection Engineering Logo Team Ghost"/>
 </p>
+
 
 
 After the baseline risk assessment is completed I will next utilize NIST SP 800-37 Risk Management Framework (RMF) to systematically manage and reduce the risks identified during the baseline risk assessment to an acceptable level. The RMF provides a comprehensive approach to integrating risk management into the life cycle of the information system, ensuring that security is continuously maintained.
@@ -281,7 +300,24 @@ As part of the CMP execution, each monitoring activity resulted in the generatio
 
 More information can be found in the JohnDoe&Co Continous Monitoring Plan.xlsx file.
 
+<br>
+
+
+
 <br />
+
+
+<br>
+
+<h2></h2>
+
+  </details>
+
+<br>
+
+<br>
+
+<br>
 
 <h2>Conclusion</h2>
 
@@ -296,3 +332,15 @@ In determining the appropriate security categorization for our system, we utiliz
 The culmination of these efforts resulted in a significant reduction in the organization’s risk profile, with a calculated 40% reduction in overall risk, effectively lowering the environment’s risk level from 'Moderate' to 'Low'. This achievement not only met the compliance standards outlined in the NIST SP 800-171 but also ensured that the environment is fully compliant with CMMC Level 2, positioning the organization to securely manage and protect CUI in alignment with government standards and industry best practices.
 
 In conclusion, this project not only fulfilled its primary objectives but also established a strong foundation for future security initiatives. The integration of NIST standards into every phase of the project underscores the importance of a rigorous, standards-based approach to cybersecurity, ensuring long-term resilience and success in the face of ever-changing threats.
+
+<br />
+
+<br />  
+
+<br /> 
+
+<br />
+
+<br />  
+
+<br /> 
