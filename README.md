@@ -69,17 +69,13 @@ The Current Implemented Controls document provides a thorough description of the
   
 More information can be found in the JohnDoe&Co SSP.docx and the Current Implemented Controls.docx files that I have attached.
 
-<br />
-<p align="center">
-<img src="![image](https://github.com/user-attachments/assets/7257b38b-41aa-4356-9d44-777ae65edf03)" height="100%" width="100%" alt="Detection Engineering Logo Team Ghost"/>
-</p>
 
-<br />
-<p align="center">
-<img src="https://imgur.com/S1LtIz6.png" height="100%" width="100%" alt="Detection Engineering Logo Team Ghost"/>
-</p>
+![image](https://github.com/user-attachments/assets/50c0ef04-956e-4721-98a3-f214293fb348)
 
-<br />
+![image](https://github.com/user-attachments/assets/8557fb1f-a3f6-4e01-b690-c745c76785ee)
+
+![image](https://github.com/user-attachments/assets/68388b85-6a78-461a-806c-84d649c02e6e)
+
 
 
 <h2>Baseline Risk Assessment and Risk Assessment Report</h2>
