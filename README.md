@@ -1,4 +1,3 @@
-# GRC-Project
 
 # The GRC Project 
 
